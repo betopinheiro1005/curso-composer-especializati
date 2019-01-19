@@ -1,0 +1,18 @@
+{
+    "name": "eti/composer-php",
+    "description": "Composer Curso de PHP",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "require": {
+        "php":">=5.3.3",
+        "monolog/monolog": "^1.24",
+        "wixel/gump": "^1.5"
+    },
+    "require-dev":{
+       "phpunit/phpunit": "^4.3"
+    }
+}
